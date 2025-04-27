@@ -11,6 +11,10 @@ Full stack lead engineer with 11 year of experience. Has experience with AWS Clo
 <a href="https://www.github.com/Arunkumarcs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Arunkumarcs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+
+## Opensource Projects
+![Static Badge](https://img.shields.io/badge/%40arunkumar_h%2Frule-engine?label=npm&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40arunkumar_h%2Frule-engine)
+
 ## Skills
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -46,10 +50,6 @@ src="https://img.shields.io/github/followers/Arunkumarcs?logo=github&style=for-t
 
 ## Socials
 <p align="left"> <a href="https://discord.com/users/arunkumar1991" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Arunkumarcs" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/arunkumar-h-0716b6104" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-## Opensource Projects
-![Static Badge](https://img.shields.io/badge/%40arunkumar_h%2Frule-engine?label=npm&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40arunkumar_h%2Frule-engine)
-
 
 
 <!-- ## Daily reads
