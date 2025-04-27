@@ -10,7 +10,7 @@ src="https://img.shields.io/github/followers/Arunkumarcs?logo=github&style=for-t
 
 
 ## Opensource Projects
-![Static Badge](https://img.shields.io/badge/%40arunkumar_h%2Frule-engine?label=npm&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40arunkumar_h%2Frule-engine)
+[![Static Badge](https://img.shields.io/badge/%40arunkumar_h%2Frule-engine?label=npm&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40arunkumar_h%2Frule-engine)](https://www.npmjs.com/package/@arunkumar_h/rule-engine)
 
 ## Skills
 <p align="left">
