@@ -49,9 +49,14 @@ src="https://img.shields.io/github/followers/Arunkumarcs?logo=github&style=for-t
 ### Socials
 <p align="left"> <a href="https://discord.com/users/arunkumar1991" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Arunkumarcs" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/arunkumar-h-0716b6104" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+### NPM
+
+- [![NPM Downloads](https://img.shields.io/npm/dm/%40arunkumar_h%2Frule-engine)](https://www.npmjs.com/package/@arunkumar_h/rule-engine)
 
 <!-- ## Daily reads
 [![daily.dev](https://api.daily.dev/devcards/v2/nzfDOG8iVQOYIDY1xt45U.png?type=wide&r=z7f)](https://app.daily.dev/arunkumarh)
 ## Roadmap
 [![roadmap.sh](https://roadmap.sh/card/wide/66e8e8a9f34c8868ecbe2262?variant=dark)](https://roadmap.sh/u/arunkumar91) -->
+
+
 
