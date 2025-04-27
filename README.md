@@ -6,7 +6,9 @@ Lead engineer @FoodHub
 
 Full stack lead engineer with 11 year of experience. Has experience with AWS Cloud & CDK, Microservice Architect & GoLang enthusiasts.
 
-* 🌍  I'm based in Chennai, India <a href="https://www.github.com/Arunkumarcs" target="_blank" rel="noreferrer"><img
+- 🌍  I'm based in Chennai, India
+
+<a href="https://www.github.com/Arunkumarcs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Arunkumarcs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
