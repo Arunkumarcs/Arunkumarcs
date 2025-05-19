@@ -52,6 +52,14 @@ I'm a full-stack lead engineer with over 11 years of experience. I specialize in
 [![GitHub](https://img.shields.io/badge/GitHub-Arunkumarcs-181717?style=for-the-badge&logo=github)](https://github.com/Arunkumarcs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arunkumar%20H-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunkumar-h-0716b6104)
 
+---
+
+## 📊 GitHub Stats
+
+![Arunkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunkumarcs&show_icons=true&theme=default&hide=issues&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunkumarcs&layout=compact&theme=default)
+
+
 <!--
 ## 📚 Daily Reads
 [![daily.dev](https://api.daily.dev/devcards/v2/nzfDOG8iVQOYIDY1xt45U.png?type=wide&r=z7f)](https://app.daily.dev/arunkumarh)
