@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Arunkumar H
-## 🚀 Lead Engineer @FoodHub
+## 🚀 Lead Engineer
 
 I'm a full-stack lead engineer with over 11 years of experience. I specialize in AWS Cloud & CDK, microservice architecture, and I'm a GoLang enthusiast.
 
